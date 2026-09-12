@@ -36,3 +36,9 @@ No raw tutoring transcripts or participant-identifying files are included. The p
 This public portfolio edition removes the University administrative coversheet containing the student number. A sentence disclosing personal and family health information has also been replaced with a neutral professional-context statement. The research methods, pilot evidence, analysis, proposed evaluation and references are otherwise unchanged.
 
 Copyright (c) Saqib Safdar. Shared for portfolio and educational review purposes.
+
+## Module acknowledgement
+
+Completed for **Data Mining and Text Analytics** as part of my University of Leeds MSc Artificial Intelligence studies. Thank you to [Dr. Noorhan Abbas](https://www.linkedin.com/in/dr-noorhan-abbas/) for the teaching and guidance.
+
+[Full portfolio](https://saqibsafdar.com/projects/) · [GitHub profile](https://github.com/saqibsafdar11)
