@@ -37,8 +37,8 @@ This public portfolio edition removes the University administrative coversheet c
 
 Copyright (c) Saqib Safdar. Shared for portfolio and educational review purposes.
 
-## Module acknowledgement
+## Module context
 
-Completed for **Data Mining and Text Analytics** as part of my University of Leeds MSc Artificial Intelligence studies. Thank you to [Dr. Noorhan Abbas](https://www.linkedin.com/in/dr-noorhan-abbas/) for the teaching and guidance.
+Completed for **Data Mining and Text Analytics** as part of my University of Leeds MSc Artificial Intelligence studies.
 
 [Full portfolio](https://saqibsafdar.com/projects/) · [GitHub profile](https://github.com/saqibsafdar11)
